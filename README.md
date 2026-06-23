@@ -10,14 +10,14 @@ Repositório de gráficos e tabelas autorais produzidas no contexto de análises
 charts_tables/
 ├── README.md
 ├── graficos/
-│   └── inadimplencia_MEIs/
-│       ├── script_inadimplencia_MEIs.ipynb
+│   └── projeto_1/
+│       ├── script_projeto_1.py
 │       └── output/
 │           ├── grafico_1.png
 │           └── grafico_2.png
 └── tabelas/
-    └── turismo_RAIS_2025/
-        ├── script_turismo_RAIS_2025.ipynb
+    └── projeto_2/
+        ├── script_projeto_2.py
         └── output/
             └── tabela_1.png
             └── tabela_2.png
