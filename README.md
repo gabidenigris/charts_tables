@@ -8,14 +8,18 @@ Repositório de visualizações e tabelas de dados autorais produzidas no contex
 
 ```
 charts_tables/
+├── README.md
 ├── graficos/
-│   ├── *.ipynb
-│   └── output/
-│       └── *.png
+│   └── inadimplencia_MEIs/
+│       ├── inadimplencia_MEIs.ipynb
+│       └── output/
+│           ├── grafico_1.png
+│           └── grafico_2.png
 └── tabelas/
-    ├── *.ipynb
-    └── output/
-        └── *.png
+    └── turismo_RAIS_2025/
+        ├── turismo_RAIS_2025.ipynb
+        └── output/
+            └── tabela_1.png
 ```
 
 
