@@ -38,5 +38,6 @@ charts_tables/
 
 ### Autora
 
-**Gabriela De Nigris**
+**Gabriela De Nigris**   
+
 [Site](https://gabidenigris.github.io) | [LinkedIn](https://www.linkedin.com/in/gabrieladenigris/) | [Instagram](https://www.instagram.com/gabidenigris/)
