@@ -9,11 +9,13 @@ Repositório de visualizações e tabelas de dados autorais produzidas no contex
 ```
 charts_tables/
 ├── graficos/
-│   ├── *.ipynb          # Scripts de visualização
-│   └── output/          # PNGs exportados
+│   ├── *.ipynb
+│   └── output/
+│       └── *.png
 └── tabelas/
-    ├── *.ipynb          # Scripts de tabelas
-    └── output/          # PNGs exportados
+    ├── *.ipynb
+    └── output/
+        └── *.png
 ```
 
 
@@ -22,13 +24,13 @@ charts_tables/
 
 ### Gráficos 
 
-| Script | PNG | Descrição | Fonte
+| Script | Output | Descrição | Fonte
 |---|---|---|---|
 | [`inadimplencia_MEIs.ipynb`](graficos/inadimplencia_MEIs.ipynb) |   pasta com as imagens  | Inadimplência de microempreendedores individuais (2018-2024) | [Receita Federal](https://www8.receita.fazenda.gov.br/simplesnacional/ConteudoApoio/arrecadacao/estatisticasarrecadacao.aspx) |
 
 ### Tabelas
 
-| Script | PNG | Descrição | Fonte
+| Script | Output | Descrição | Fonte
 |---|---|---|---|
 | [`turismo_RAIS_2025.ipynb`](tabelas/turismo_RAIS_2025_.ipynb) |   pasta com as imagens  |  Emprego formal no setor de turismo por região — 2025 | [RAIS 2025](https://basedosdados.org/dataset/3e7c4d58-96ba-448e-b053-d385a829ef00?table=86b69f96-0bfe-45da-833b-6edc9a0af213) |
 
@@ -40,4 +42,4 @@ charts_tables/
 
 **Gabriela De Nigris**   
 
-[Site](https://gabidenigris.github.io) | [LinkedIn](https://www.linkedin.com/in/gabrieladenigris/) | [Instagram](https://www.instagram.com/gabidenigris/)
+[Site](https://gabidenigris.github.io) · [LinkedIn](https://www.linkedin.com/in/gabrieladenigris/) · [Instagram](https://www.instagram.com/gabidenigris/)
